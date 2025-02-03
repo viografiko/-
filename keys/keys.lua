@@ -1,4 +1,4 @@
-local keys = {
+return {
     free = {
         ["wa4Rb9-T1HRTO-AIR2Rb"] = true,
     },
