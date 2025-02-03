@@ -1,1 +1,20 @@
-
+{
+    "wa4Rb9-T1HRTO-AIR2Rb": {
+        "hwids": [
+            "hwid_1",
+            "hwid_2"
+        ]
+    },
+    "cEhuaUdjLW81NGRBUS": {
+        "hwids": [
+            "hwid_3",
+            "hwid_4"
+        ]
+    },
+    "V21UNlZLLVQwWGJkOS": {
+        "hwids": [
+            "hwid_5",
+            "hwid_6"
+        ]
+    }
+}
